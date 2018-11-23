@@ -1,0 +1,10 @@
+<publishData>
+  <publishTarget publishUrl="C:\web\webChat2\">
+    <file relUrl="WCFServ.WebChat.svc" publishTime="02/04/2016 10:18:51" />
+    <file relUrl="bin/WCFServ.dll" publishTime="02/04/2016 10:18:51" />
+    <file relUrl="bin/WCFServ.dll.config" publishTime="02/04/2016 10:06:59" />
+    <file relUrl="bin/WCFServ.pdb" publishTime="02/04/2016 10:18:51" />
+    <file relUrl="Web.config" publishTime="02/04/2016 10:06:59" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\webchat\" />
+</publishData>

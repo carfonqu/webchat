@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e8dc9240-df45-4e43-a39c-a11d522fc9e3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60558/ServicioChat.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicioChat.disco" MetadataType="Disco" ID="cc27c71b-9f68-4252-9004-4aa68ff6caba" SourceId="1" SourceUrl="http://localhost:60558/ServicioChat.svc?disco" />
+    <MetadataFile FileName="ServicioChat.xsd" MetadataType="Schema" ID="81ded5c5-afd7-4198-b986-64b28943b5d7" SourceId="1" SourceUrl="http://localhost:60558/ServicioChat.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicioChat1.xsd" MetadataType="Schema" ID="a4cea7ae-58a7-45dc-aeeb-1c0472f1813a" SourceId="1" SourceUrl="http://localhost:60558/ServicioChat.svc?xsd=xsd1" />
+    <MetadataFile FileName="WebChat.wsdl" MetadataType="Wsdl" ID="a5608c3f-12e1-4631-914f-75c2077f5255" SourceId="1" SourceUrl="http://localhost:60558/ServicioChat.svc?wsdl" />
+    <MetadataFile FileName="ServicioChat2.xsd" MetadataType="Schema" ID="fa11130f-64f7-4366-9866-bbd9b888ce60" SourceId="1" SourceUrl="http://localhost:60558/ServicioChat.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

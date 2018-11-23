@@ -1,0 +1,6 @@
+C:\web\WebChat\WebChat\bin\WebChat.dll.config
+C:\web\WebChat\WebChat\bin\WebChat.dll
+C:\web\WebChat\WebChat\bin\WebChat.pdb
+C:\web\WebChat\WebChat\obj\Release\WebChat.csprojResolveAssemblyReference.cache
+C:\web\WebChat\WebChat\obj\Release\WebChat.dll
+C:\web\WebChat\WebChat\obj\Release\WebChat.pdb

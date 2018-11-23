@@ -1,0 +1,9 @@
+C:\Users\cgonzalez\Desktop\Cenfotec\WebChatCoopecaja\WebChat\WCFServicio\bin\Debug\WCFServicio.dll
+C:\Users\cgonzalez\Desktop\Cenfotec\WebChatCoopecaja\WebChat\WCFServicio\bin\Debug\WCFServicio.pdb
+C:\Users\cgonzalez\Desktop\Cenfotec\WebChatCoopecaja\WebChat\WCFServicio\obj\Debug\WCFServicio.dll
+C:\Users\cgonzalez\Desktop\Cenfotec\WebChatCoopecaja\WebChat\WCFServicio\obj\Debug\WCFServicio.pdb
+C:\Users\cgonzalez.COOPECAJA\Desktop\WebChatCoopecaja\WebChat\WCFServicio\bin\Debug\WCFServicio.dll
+C:\Users\cgonzalez.COOPECAJA\Desktop\WebChatCoopecaja\WebChat\WCFServicio\bin\Debug\WCFServicio.pdb
+C:\Users\cgonzalez.COOPECAJA\Desktop\WebChatCoopecaja\WebChat\WCFServicio\obj\Debug\WCFServicio.dll
+C:\Users\cgonzalez.COOPECAJA\Desktop\WebChatCoopecaja\WebChat\WCFServicio\obj\Debug\WCFServicio.pdb
+C:\Users\cgonzalez.COOPECAJA\Desktop\WebChatCoopecaja\WebChat\WCFServicio\obj\Debug\WCFServicio.csprojResolveAssemblyReference.cache

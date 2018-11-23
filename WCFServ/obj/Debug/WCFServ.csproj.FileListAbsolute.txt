@@ -1,0 +1,10 @@
+C:\Users\cgonzalez.COOPECAJA\Desktop\WebChatCoopecaja\WebChat\WCFServ\bin\Debug\WCFServ.dll.config
+C:\Users\cgonzalez.COOPECAJA\Desktop\WebChatCoopecaja\WebChat\WCFServ\bin\Debug\WCFServ.dll
+C:\Users\cgonzalez.COOPECAJA\Desktop\WebChatCoopecaja\WebChat\WCFServ\bin\Debug\WCFServ.pdb
+C:\Users\cgonzalez.COOPECAJA\Desktop\WebChatCoopecaja\WebChat\WCFServ\obj\Debug\WCFServ.dll
+C:\Users\cgonzalez.COOPECAJA\Desktop\WebChatCoopecaja\WebChat\WCFServ\obj\Debug\WCFServ.pdb
+C:\web\WebChat\WCFServ\bin\Debug\WCFServ.dll
+C:\web\WebChat\WCFServ\bin\Debug\WCFServ.pdb
+C:\web\WebChat\WCFServ\obj\Debug\WCFServ.dll
+C:\web\WebChat\WCFServ\obj\Debug\WCFServ.pdb
+C:\web\WebChat\WCFServ\bin\Debug\WCFServ.dll.config

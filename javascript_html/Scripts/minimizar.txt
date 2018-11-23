@@ -1,0 +1,3 @@
+http://www.danstools.com/javascript-minify/
+
+http://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx

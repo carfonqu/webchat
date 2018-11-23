@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChat", "WebChat\WebChat.csproj", "{AC0FEDD5-2709-4ADF-984A-38C1C638FDAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionEscritorio", "AplicacionEscritorio\AplicacionEscritorio.csproj", "{36E2F296-AC4E-4030-B385-62BD7ACEF2D1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AC0FEDD5-2709-4ADF-984A-38C1C638FDAC} = {AC0FEDD5-2709-4ADF-984A-38C1C638FDAC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServ", "WCFServ\WCFServ.csproj", "{DD4B9A5E-6C75-438F-96C8-18085A99879E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0FEDD5-2709-4ADF-984A-38C1C638FDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0FEDD5-2709-4ADF-984A-38C1C638FDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0FEDD5-2709-4ADF-984A-38C1C638FDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0FEDD5-2709-4ADF-984A-38C1C638FDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E2F296-AC4E-4030-B385-62BD7ACEF2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E2F296-AC4E-4030-B385-62BD7ACEF2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E2F296-AC4E-4030-B385-62BD7ACEF2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E2F296-AC4E-4030-B385-62BD7ACEF2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4B9A5E-6C75-438F-96C8-18085A99879E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4B9A5E-6C75-438F-96C8-18085A99879E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4B9A5E-6C75-438F-96C8-18085A99879E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4B9A5E-6C75-438F-96C8-18085A99879E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
